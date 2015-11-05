@@ -1,0 +1,28 @@
+{
+  "name": "stack1",
+  "version": "0.0.0",
+  "description": "Stack example using npm for build",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/neilhighley/stack1"
+  },
+  "keywords": [
+    "npm",
+    "build",
+    "for",
+    "javascript",
+    "dev"
+  ],
+  "author": "neil highley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilhighley/stack1/issues"
+  }
+}
